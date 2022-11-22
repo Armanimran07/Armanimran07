@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Armanimran07
+- 👋 Hi, I’m @Muhammadimran
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning cloud computing with IBM 
 -
