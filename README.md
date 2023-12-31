@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning cloud computing with IBM 
 -
 -📫 you can mail me here imrannajar05@gmail.com
-Currently working in @NVIDIA
+
+-Currently working in @NVIDIA
 
 <!---
 Armanimran07/Armanimran07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
