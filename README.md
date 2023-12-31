@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadimran
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning cloud computing with IBM 
+- 🌱 Studied cloud computing with IBM 
 -
 -📫 you can mail me here imrannajar05@gmail.com
 Currently working in @NVIDIA
